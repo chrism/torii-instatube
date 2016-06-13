@@ -26,7 +26,7 @@ module.exports = function(environment) {
         //   scope: 'email,birthday' 
         // },
         'instatube': {
-          apiKey: 
+          apiKey: '3e49eab1d954f8a30eff9b54611268e73d4f0176e88a5902929439346e16d711'
         }
       }
     }
